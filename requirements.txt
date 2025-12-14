@@ -1,0 +1,5 @@
+%%writefile requirements.txt
+scikit-learn
+# Add any other required packages here, e.g.:
+# pandas
+# numpy
